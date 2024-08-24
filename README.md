@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UrbaneCart](https://github.com/Tusharpandao/UrbaneCart)
 
-- 🌱 I’m currently learning **NodeJS, Python**
+
 
 - 👯 I’m looking to collaborate on [Contact Management](https://github.com/Tusharpandao/Contact_Management)
 
