@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pandaotushar1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tushar-pandao/](https://www.linkedin.com/in/tushar-pandao/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tusharpandao/](https://www.linkedin.com/in/tusharpandao/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
